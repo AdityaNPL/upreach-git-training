@@ -9,7 +9,7 @@ https://www.atlassian.com/git/tutorials/install-git
 
 I've also summarised it below, if you find that easier
 
-## Windows
+## Windows 
 
 Install git from:
 https://gitforwindows.org/ 
