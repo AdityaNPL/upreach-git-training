@@ -1,6 +1,6 @@
 # Upreach Git & GitHub Training
 
-# Git installation
+# Git installation 
 
 You can refer to the installation guide here:
 https://www.atlassian.com/git/tutorials/install-git
